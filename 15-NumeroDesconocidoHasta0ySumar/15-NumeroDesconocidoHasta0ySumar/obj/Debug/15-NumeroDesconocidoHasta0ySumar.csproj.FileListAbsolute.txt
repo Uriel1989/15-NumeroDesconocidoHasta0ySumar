@@ -1,0 +1,5 @@
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\15-NumeroDesconocidoHasta0ySumar\15-NumeroDesconocidoHasta0ySumar\bin\Debug\15-NumeroDesconocidoHasta0ySumar.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\15-NumeroDesconocidoHasta0ySumar\15-NumeroDesconocidoHasta0ySumar\bin\Debug\15-NumeroDesconocidoHasta0ySumar.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\15-NumeroDesconocidoHasta0ySumar\15-NumeroDesconocidoHasta0ySumar\obj\Debug\15-NumeroDesconocidoHasta0ySumar.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\15-NumeroDesconocidoHasta0ySumar\15-NumeroDesconocidoHasta0ySumar\obj\Debug\15-NumeroDesconocidoHasta0ySumar.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\15-NumeroDesconocidoHasta0ySumar\15-NumeroDesconocidoHasta0ySumar\obj\Debug\15-NumeroDesconocidoHasta0ySumar.pdb
